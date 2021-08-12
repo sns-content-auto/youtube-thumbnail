@@ -1,0 +1,5 @@
+janome==0.4.1
+opencv-python==4.5.3.56
+numpy==1.19.5
+face_recognition==1.2.3
+pillow==8.2.0
